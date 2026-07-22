@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-tdcxku.octostore.dev/sitemap.xml
